@@ -1,4 +1,4 @@
-[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fstudent-doing-coding-his-computer-setup-with-proper-lighting-night-colorful-pc-table-chair_52626214.htm&psig=AOvVaw2mhDCJMHVpJXfWzRH_V-Mb&ust=1721591097376000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJje7-KwtocDFQAAAAAdAAAAABAE))
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fstudent-doing-coding-his-computer-setup-with-proper-lighting-night-colorful-pc-table-chair_52626214.htm&psig=AOvVaw2mhDCJMHVpJXfWzRH_V-Mb&ust=1721591097376000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJje7-KwtocDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Rupayan Dutta</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
