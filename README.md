@@ -1,4 +1,5 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fstudent-doing-coding-his-computer-setup-with-proper-lighting-night-colorful-pc-table-chair_52626214.htm&psig=AOvVaw2mhDCJMHVpJXfWzRH_V-Mb&ust=1721591097376000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJje7-KwtocDFQAAAAAdAAAAABAE)]
+
 <h1 align="center">Hi 👋, I'm Rupayan Dutta</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
